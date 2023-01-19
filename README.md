@@ -5,8 +5,8 @@ Emoji Dictionary is basically a sort of an app where new gen's emoji's and their
 
 <p align="center">
   
-  <img width="200" height = "400" alt="Img3" src="https://user-images.githubusercontent.com/90863360/213524518-fafc0c78-3dda-4a3b-8c63-e31fa18b66c2.png">
-  
   <img width="200" height = "400" alt="Img2" src="https://user-images.githubusercontent.com/90863360/213524551-04acd19e-a9b3-4e88-b6a9-8c92f38555da.png">
+  
+  <img width="200" height = "400" alt="Img3" src="https://user-images.githubusercontent.com/90863360/213524518-fafc0c78-3dda-4a3b-8c63-e31fa18b66c2.png">
 
 </p>
